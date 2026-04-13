@@ -9,3 +9,5 @@ C6
 --add c7,C8 to file C
 C7
 C8
+--add c9 to file C
+C9

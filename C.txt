@@ -3,6 +3,3 @@ C2
 --add c3,C4 to file C
 C3
 C4
---add c5,C6 to file C
-C5
-C6

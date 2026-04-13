@@ -6,10 +6,3 @@ C4
 --add c5,C6 to file C
 C5
 C6
---add c7,C8 to file C
-C7
-C8
---add c9 to file C
-C9
---add c10 to file C
-C10

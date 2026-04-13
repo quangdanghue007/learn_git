@@ -11,3 +11,5 @@ C7
 C8
 --add c9 to file C
 C9
+--add c10 to file C
+C10

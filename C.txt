@@ -1,0 +1,5 @@
+C1
+C2
+--add c3,C4 to file C
+C3
+C4
